@@ -6,7 +6,7 @@ Currently studying Computer Science/Engineering and specializing in English.
 
 <p align="center" style="display: flex; justify-content: space-evenly;">
     <img src="https://github-readme-stats.vercel.app/api?username=justcarlux&show_icons=true&theme=transparent&hide_rank=true"></img>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcarlux&layout=compact"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcarlux&layout=compact&theme=transparent"></img>
 </p>
 
 Here are some of my skills:
