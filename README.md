@@ -4,7 +4,7 @@ My name is Carlos. I'm just a person who likes to do stuff on their computer. So
 
 Currently studying Computer Science/Engineering and specializing in English.
 
-<p align="center" style="display: flex; justify-content: space-evenly; align-items: center;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=justcarlux&show_icons=true&theme=transparent&hide_rank=true&hide_title=true"></img>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcarlux&layout=compact&theme=transparent"></img>
 </p>
